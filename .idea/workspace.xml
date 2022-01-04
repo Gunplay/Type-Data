@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3a69b8e-41d8-4b51-931c-a932a6b24e54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5.6 Перебираемые объекты/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.6 Перебираемые объекты/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.6 Перебираемые объекты/task.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.7 Map и Set/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.7 Map и Set/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.7 Map и Set/task.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.5 Методы массивов/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/5.5 Методы массивов/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.5 Методы массивов/task.js" beforeDir="false" afterPath="$PROJECT_DIR$/5.5 Методы массивов/task.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.7 Map и Set/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/5.7 Map и Set/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +57,8 @@
       <workItem from="1641123550695" duration="5249000" />
       <workItem from="1641201251855" duration="10112000" />
       <workItem from="1641216960615" duration="3210000" />
-      <workItem from="1641235206696" duration="1297000" />
+      <workItem from="1641235206696" duration="1752000" />
+      <workItem from="1641276850677" duration="2124000" />
     </task>
     <servers />
   </component>
